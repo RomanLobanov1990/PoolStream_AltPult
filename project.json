@@ -1,0 +1,18 @@
+{
+  "name": "PoolStream",
+  "about": "проект PoolStream v3.0",
+  "version": "1.1",
+  "notes": "Тестирование обновления github",
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        {
+          "path": "https://raw.githubusercontent.com/RomanLobanov1990/PoolStream/main/firmware.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}
+
