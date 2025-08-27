@@ -1,8 +1,8 @@
 {
   "name": "PoolStream",
-  "about": "проект PoolStream",
-  "version": "4.0",
-  "notes": "улучшение связи с вебинтерфейсом, удаление тренировки и этапа на отдельную кнопку",
+  "about": "проект PoolStream, режим Current с альтернативным пультом",
+  "version": "4.1",
+  "notes": "исправление ошибок",
   "builds": [
     {
       "chipFamily": "ESP32",
